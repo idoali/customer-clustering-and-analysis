@@ -1,0 +1,51 @@
+[x] Make simple cheat sheet
+[ ] Apply that to personality customer data
+
+---
+
+[ ] Make excalidraw schema
+[ ] 
+
+Customer Data
+
+[x] Make columns for ML Input
+[x] Make two tabs
+[x] Add Emoji 
+[x] Change title
+[ ] Clean the notebook
+[ ] Add introduction
+[ ] Add Centroid Info
+[ ] Add Centroid info to the dashboard
+
+---
+
+Explain to me why we need to perform clustering in marketing data. Explain that we need to understand the customers better and we want to optimize the campaigns we'll run in the future
+
+---
+
+Notes:
+- Daily Tweets
+- LinkedIn Posts every 3 days
+- YouTube channel and a new video every week
+  + Decent Thumbnail
+    - Tools I use
+    - My Pic
+    - AI Generated pic
+    - Arrow & Statements
+  + Background "Internalizing Data"
+  + Tutorial
+    - Plan on Excalidraw at the beginning
+    - Smile with excited tone
+    - 
+- Landing Page for each course
+- Portfolio
+  + Use this template: https://www.framer.com/templates/glove/
+  + Inspiration: https://www.claudiatenhoope.com/
+  + Who are you + A Quote
+  + About me
+  + Services
+  + Contact
+  + Projects
+  + Skills/Tools
+  + Courses
+  
